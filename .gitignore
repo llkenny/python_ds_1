@@ -104,4 +104,4 @@ htmlcov
 CHANGELOG.temp
 
 examples/*/envs
-3/creditcard.csv
+creditcard.csv
